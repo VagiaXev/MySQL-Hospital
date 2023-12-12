@@ -7,4 +7,5 @@ I also added screenshots of the database schema so that both relations among the
 
 For my analysis, I used MySQL Workbench. 
 
-The database and the data come by the following site: https://www.sql-practice.com/. 
+The database, the data and the questions to be answered based on the data, are taken from the following site: 
+https://www.sql-practice.com/. 
