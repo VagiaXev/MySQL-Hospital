@@ -5,6 +5,8 @@ In this project, I executed a number of questions for an online database which i
 
 I also added a screenshot of the database schema so that both relations among the tables and data types per table will be known. 
 
+The database includes 4 tables. 
+
 For my analysis, I used MySQL Workbench. 
 
 The database, the data and the questions to be answered based on the data, are taken from the following site: 
